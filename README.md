@@ -3,7 +3,7 @@
 透過手機APP，對長榮大學校狗拍照，便可以得到該校狗的相關資料</br>
 </br>
 </br>
-<h3>標題</h3>
+<h3>展示</h3>
 
 ![image](https://github.com/yizZhang0421/cjcu_dog_recog_app/raw/master/readme_image/preview.jpg)</br>
 
